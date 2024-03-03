@@ -1,0 +1,2 @@
+# Griseo_Honkai_Impact_Manager
+用于实现崩坏三自动化
